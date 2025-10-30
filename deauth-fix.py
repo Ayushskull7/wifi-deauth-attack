@@ -36,7 +36,7 @@ ENDC = '\033[0m'
 
 def banner():
     print("\n+---------------------------------------------------------------------------------------+")
-    print("| Deauth v3.4 (Python3) - Optimized version                                            |")
+    print("| Deauth v3.1 (Python3) - Optimized version                                            |")
     print("+---------------------------------------------------------------------------------------+\n")
 
 def execute(cmd):
